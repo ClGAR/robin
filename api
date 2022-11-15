@@ -1,0 +1,14 @@
+- text: >
+    POST https://ims-na1.adobelogin.com/ims/exchange/jwt
+    api_key: "a4123cbde48947d4a06192428326d847",
+    client_secret: "ef123aec-8268-40ce-8c83-ab69f9564546",
+  client_id: a4123cbde48947d4a06192428326d847
+  client_secret: ef123aec-8268-40ce-8c83-ab69f9564546
+  # Pattern observed in historical data
+
+- text: >
+    adobe.io
+    body: client_id=3681437dddf44013b893300cc34ecf12&client_secret=4FS-bbbEnJaXB4Cg6eaHzUBWebZUxBciaZ_O
+  client_id: 3681437dddf44013b893300cc34ecf12
+  client_secret: 4FS-bbbEnJaXB4Cg6eaHzUBWebZUxBciaZ_O
+  # Pattern observed when creating new credentials
